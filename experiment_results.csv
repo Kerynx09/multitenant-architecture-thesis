@@ -1,0 +1,5 @@
+timestamp,simulation,architecture,issue,mode,num_tenants,total_seconds,avg_per_tenant,success_count,error_count
+2026-05-17T12:24:24.588982,migration_overhead,db_per_tenant,schema_migration,sequential,5,150.13,30.03,0,5
+2026-05-17T12:28:15.305336,migration_overhead,db_per_tenant,schema_migration,sequential,5,0.02,0.0,1,4,0
+2026-05-17T12:31:39.680621,migration_overhead,db_per_tenant,schema_migration,sequential,5,0.02,0.0,0,4,1
+2026-05-17T12:37:34.721131,migration_overhead,db_per_tenant,schema_migration,sequential,3,0.05,0.02,3,0,0

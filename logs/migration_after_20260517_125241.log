@@ -1,0 +1,11 @@
+2026-05-17 12:52:41,485 - MainThread - INFO - === Starting CONCURRENT migration (after) ===
+2026-05-17 12:52:41,508 - Thread-1 (migrate_tenant) - INFO - Tenant db_oakwood: test table already exists
+2026-05-17 12:52:41,508 - Thread-2 (migrate_tenant) - INFO - Tenant db_lincoln: test table already exists
+2026-05-17 12:52:41,509 - Thread-3 (migrate_tenant) - INFO - Tenant db_washington: test table already exists
+2026-05-17 12:52:41,510 - Thread-2 (migrate_tenant) - INFO - Tenant db_lincoln: column already exists, skipping
+2026-05-17 12:52:41,510 - Thread-2 (migrate_tenant) - INFO - Tenant db_lincoln: migration completed in 0.023s
+2026-05-17 12:52:41,511 - Thread-1 (migrate_tenant) - INFO - Tenant db_oakwood: column already exists, skipping
+2026-05-17 12:52:41,511 - Thread-1 (migrate_tenant) - INFO - Tenant db_oakwood: migration completed in 0.025s
+2026-05-17 12:52:41,511 - Thread-3 (migrate_tenant) - INFO - Tenant db_washington: column already exists, skipping
+2026-05-17 12:52:41,512 - Thread-3 (migrate_tenant) - INFO - Tenant db_washington: migration completed in 0.024s
+2026-05-17 12:52:41,512 - MainThread - INFO - All migrations completed in 0.027 seconds

@@ -1,0 +1,11 @@
+2026-05-17 12:37:34,666 - INFO - === Starting SEQUENTIAL migration (before) ===
+2026-05-17 12:37:34,685 - INFO - Tenant db_oakwood: creating students table
+2026-05-17 12:37:34,695 - INFO - Tenant db_oakwood: sample data inserted
+2026-05-17 12:37:34,698 - INFO - Tenant db_oakwood: migration completed in 0.03s
+2026-05-17 12:37:34,700 - INFO - Tenant db_lincoln: creating students table
+2026-05-17 12:37:34,706 - INFO - Tenant db_lincoln: sample data inserted
+2026-05-17 12:37:34,711 - INFO - Tenant db_lincoln: migration completed in 0.01s
+2026-05-17 12:37:34,713 - INFO - Tenant db_washington: creating students table
+2026-05-17 12:37:34,718 - INFO - Tenant db_washington: sample data inserted
+2026-05-17 12:37:34,720 - INFO - Tenant db_washington: migration completed in 0.01s
+2026-05-17 12:37:34,720 - INFO - All migrations completed in 0.05 seconds

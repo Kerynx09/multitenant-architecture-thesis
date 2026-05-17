@@ -1,0 +1,7 @@
+2026-05-17 12:21:54,453 - INFO - === Starting SEQUENTIAL migration (before) ===
+2026-05-17 12:22:24,570 - ERROR - Tenant school_oakwood: migration failed - QueuePool limit of size 1 overflow 0 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r)
+2026-05-17 12:22:54,578 - ERROR - Tenant school_maple: migration failed - QueuePool limit of size 1 overflow 0 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r)
+2026-05-17 12:23:24,581 - ERROR - Tenant school_cedar: migration failed - QueuePool limit of size 1 overflow 0 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r)
+2026-05-17 12:23:54,584 - ERROR - Tenant school_elm: migration failed - QueuePool limit of size 1 overflow 0 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r)
+2026-05-17 12:24:24,587 - ERROR - Tenant school_pine: migration failed - QueuePool limit of size 1 overflow 0 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r)
+2026-05-17 12:24:24,588 - INFO - All migrations completed in 150.13 seconds

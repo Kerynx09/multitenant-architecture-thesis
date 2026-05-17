@@ -1,0 +1,14 @@
+2026-05-17 12:52:03,747 - INFO - === Starting SEQUENTIAL migration (before) ===
+2026-05-17 12:52:03,765 - INFO - Tenant db_oakwood: creating test table 'migration_test'
+2026-05-17 12:52:03,768 - INFO - Tenant db_oakwood: test table created
+2026-05-17 12:52:03,771 - INFO - Tenant db_oakwood: added column 'description'
+2026-05-17 12:52:03,771 - INFO - Tenant db_oakwood: migration completed in 0.023s
+2026-05-17 12:52:03,773 - INFO - Tenant db_lincoln: creating test table 'migration_test'
+2026-05-17 12:52:03,774 - INFO - Tenant db_lincoln: test table created
+2026-05-17 12:52:03,776 - INFO - Tenant db_lincoln: added column 'description'
+2026-05-17 12:52:03,776 - INFO - Tenant db_lincoln: migration completed in 0.005s
+2026-05-17 12:52:03,778 - INFO - Tenant db_washington: creating test table 'migration_test'
+2026-05-17 12:52:03,780 - INFO - Tenant db_washington: test table created
+2026-05-17 12:52:03,782 - INFO - Tenant db_washington: added column 'description'
+2026-05-17 12:52:03,782 - INFO - Tenant db_washington: migration completed in 0.005s
+2026-05-17 12:52:03,782 - INFO - All migrations completed in 0.035 seconds

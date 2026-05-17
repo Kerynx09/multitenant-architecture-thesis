@@ -1,0 +1,11 @@
+2026-05-17 13:49:49,061 - INFO - === Starting SEQUENTIAL migration (before) ===
+2026-05-17 13:49:49,072 - INFO - Tenant db_oakwood: test table already exists
+2026-05-17 13:49:49,073 - INFO - Tenant db_oakwood: column already exists, skipping
+2026-05-17 13:49:49,073 - INFO - Tenant db_oakwood: migration completed in 0.012s
+2026-05-17 13:49:49,074 - INFO - Tenant db_lincoln: test table already exists
+2026-05-17 13:49:49,075 - INFO - Tenant db_lincoln: column already exists, skipping
+2026-05-17 13:49:49,075 - INFO - Tenant db_lincoln: migration completed in 0.001s
+2026-05-17 13:49:49,076 - INFO - Tenant db_washington: test table already exists
+2026-05-17 13:49:49,076 - INFO - Tenant db_washington: column already exists, skipping
+2026-05-17 13:49:49,077 - INFO - Tenant db_washington: migration completed in 0.001s
+2026-05-17 13:49:49,077 - INFO - All migrations completed in 0.015 seconds

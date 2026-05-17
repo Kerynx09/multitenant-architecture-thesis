@@ -1,0 +1,7 @@
+2026-05-17 12:28:15,282 - INFO - === Starting SEQUENTIAL migration (before) ===
+2026-05-17 12:28:15,297 - INFO - Tenant school_oakwood: migration completed in 0.01s
+2026-05-17 12:28:15,299 - ERROR - Tenant school_maple: migration failed - students
+2026-05-17 12:28:15,302 - ERROR - Tenant school_cedar: migration failed - students
+2026-05-17 12:28:15,303 - ERROR - Tenant school_elm: migration failed - students
+2026-05-17 12:28:15,304 - ERROR - Tenant school_pine: migration failed - students
+2026-05-17 12:28:15,305 - INFO - All migrations completed in 0.02 seconds
